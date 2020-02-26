@@ -1,6 +1,6 @@
 .vscode
 .DS_Store
-.sublime-proyect
+.sublime-project
 .sublime-workspace
 node_modules
 variables.env
